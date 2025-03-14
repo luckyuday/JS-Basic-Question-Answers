@@ -287,6 +287,7 @@
 // let numInWords = "";
 // if (num1 < 0) {
 //   numInWords += "Minus ";
+//    num1=Math.abs(num1);
 // }
 // if (num1 == 0) {
 //   console.log(numInWords + "Zero");
